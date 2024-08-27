@@ -4,11 +4,9 @@
 HashamAkram18/HashamAkram18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# Hasham Akram's Portfolio
+# Hasham Akram
 
 Welcome to my personal portfolio! Here, you can explore my projects, learn about my skills, and get in touch with me.
-
-## View My Portfolio
 
 🔗 [Visit my portfolio website](https://hashamakram18.github.io/Portfolio-Website/)
 
