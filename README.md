@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 --->
 # Hasham Akram
 
-Welcome to my personal portfolio! Here, you can explore my projects, learn about my skills, and get in touch with me.
+Welcome to my GitHub! Here, you can explore my projects, learn about my skills, and get in touch with me.
 
 🔗 [Visit my portfolio website](https://hashamakram18.github.io/Portfolio-Website/)
 
