@@ -12,7 +12,7 @@ Welcome to my GitHub! Here, you can explore my projects, learn about my skills, 
 
 ## About Me
 
-I am a passionate data scientist and machine learning engineer with a background in physics. I enjoy working on innovative projects that leverage data science, machine learning, and scientific computing to solve real-world problems.
+I am a Data scientist and machine learning engineer with a background in physics. I enjoy working on innovative projects that leverage data science, machine learning, and scientific computing to solve real-world problems.
 
 ## Projects
 
