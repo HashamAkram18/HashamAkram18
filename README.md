@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 
 Welcome to my GitHub! Here, you can explore my projects, learn about my skills, and get in touch with me.
 
-🔗 [Visit my portfolio website](https://hashamakram18.github.io/Portfolio-Website/)
+🔗 [Visit my PhysML Invos](https://hashamakram18.github.io/Portfolio-Website/)
 
 ## About Me
 
@@ -21,7 +21,7 @@ I am a passionate data scientist and machine learning engineer with a background
 - **Project 3:** [Next Word Prediction](#)
 - **Project 4:** [Chicken Disease Classification](#)
 
-*...and more on my [portfolio website](https://hashamakram18.github.io/Portfolio-Website/)!*
+*...and more on [PhysML Invos website](https://hashamakram18.github.io/Portfolio-Website/)!*
 
 ## Contact Me
 
