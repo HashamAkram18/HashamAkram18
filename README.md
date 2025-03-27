@@ -1,32 +1,24 @@
 
 
-<!---
-HashamAkram18/HashamAkram18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 # Hasham Akram
 
-Welcome to my GitHub! Here, you can explore my projects, learn about my skills, and get in touch with me.
+Welcome to my GitHub profile. This space is a reflection of my journey—an evolving mix of curiosity, learning, and the pursuit of meaningful work.
 
-🔗 [Visit my PhysML Invos](https://hashamakram18.github.io/Portfolio-Website/)
+> "The harsh truth is, not every project will succeed, and not every skill will matter. But the process shapes you more than the outcome."
 
 ## About Me
 
-I am a Data scientist and machine learning engineer with a background in physics. I enjoy working on innovative projects that leverage data science, machine learning, and scientific computing to solve real-world problems.
+I am a data scientist and machine learning engineer with a strong foundation in physics. My work revolves around solving complex problems using data-driven approaches. While I strive for innovation, I also embrace the reality that growth often comes through trial and error.
 
-## Projects
+## What You'll Find Here
 
-- **Project 1:** [Wheat Crop Detection](#)
-- **Project 2:** [Kidney Disease Classification](#)
-- **Project 3:** [Next Word Prediction](#)
-- **Project 4:** [Chicken Disease Classification](#)
+This repository showcases a variety of projects and experiments—some polished, some rough around the edges. They represent my ongoing efforts to learn, adapt, and contribute to the broader tech community.
 
-*...and more on [PhysML Invos website](https://hashamakram18.github.io/Portfolio-Website/)!*
+## Let's Connect
 
-## Contact Me
-
-Feel free to reach out to me via the contact form on my portfolio or connect with me on [LinkedIn](#).
+Feel free to reach out via [LinkedIn](#) or explore more on my [portfolio website](https://hashamakram18.github.io/Portfolio-Website/).
 
 ---
 
-© 2024 Hasham Akram. All rights reserved.
+© 2025 Hasham Akram. All rights reserved.
+
