@@ -16,7 +16,7 @@ This repository showcases a variety of projects and experiments—some polished,
 
 ## Let's Connect
 
-Feel free to reach out via [LinkedIn](#) or explore more on my [portfolio website](https://hashamakram18.github.io/Portfolio-Website/).
+Feel free to reach out via [LinkedIn](#) or explore more on my [PhysML Invos](https://hashamakram18.github.io/Portfolio-Website/).
 
 ---
 
